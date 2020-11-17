@@ -3,6 +3,5 @@
 ##  About me
 I am studying **Computer Science** at [AGH University of Science and Technology](https://www.agh.edu.pl/en/ "https://www.agh.edu.pl/en/").
 I am interested in **Artificial Intelligence** and **Data Science**. Currently I am doing many projects with my classmates, learning some useful IT  skills and having fun.
-![There is no photo :(](/Users/hania/Desktop/homepage/images/myphoto.jpg)
 
 In my free time, I love doing sports - especially *triathlon* and *sport shooting*.
