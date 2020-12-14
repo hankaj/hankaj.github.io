@@ -10,7 +10,7 @@ In my free time, I love doing sports - especially *triathlon* and *sport shootin
 *That's me on triathlon competition!*
 
 ## My latest project
-Recently I finished a project for Tools in Computer Science classes. Together with my  with my colleagues we created **Project Labyrinth**.
+Recently I finished a project for Tools in Computer Science classes. Together with my colleagues we created **Project Labyrinth**.
 Our programme **generates mazes** using many different algorithms. We used Python to code it and libaries such as tkinter and pygame. We have learned how to use many IT tools and improved our teamwork skills.
 
 ![maze_image](maze.png)
